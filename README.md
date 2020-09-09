@@ -5,7 +5,7 @@ ___
 
 _A list of my commonly used Git commands_
 
-*If you are interested in my Git aliases, have a look here: <link>*
+*If you are interested in my Git aliases, have a look here: https://github.com/GowriSankar-JG/Git-Commands/blob/master/alias.md *
 
 
 ### Getting & Creating Projects
